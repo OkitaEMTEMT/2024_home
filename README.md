@@ -4,7 +4,6 @@
 ## 學號是C111126109
 
 ## 這邊來推薦一首 酸欠少女さユり『酸欠少女』
-![Sayuri-Sanketsu-Shoujo](Sayuri-Sanketsu-Shoujo.jpg "Sayuri-Sanketsu-Shoujo")
 [![Sayuri](https://img.youtube.com/vi/L72R8VFVNEY/0.jpg)](https://www.youtube.com/watch?v=L72R8VFVNEY "Sayuri")
 
 ```
@@ -43,6 +42,8 @@
 揺れて消えて歌っているの　　泣きそうな酸欠少女
 僕が死んでそれでどうなるの？ 夢見がちな酸欠少女酸欠少女
 ```
+
+![Sayuri-Sanketsu-Shoujo](Sayuri-Sanketsu-Shoujo.jpg "Sayuri-Sanketsu-Shoujo")
 ### さユり，謝謝妳！！
 
 
